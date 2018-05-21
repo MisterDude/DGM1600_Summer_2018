@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a1496556a6b4f6a8e383033f234a96, type: 3}
+  m_Name: Husky
+  m_EditorClassIdentifier: 
+  Health: 120
+  Speed: 1
+  Strength: 1
+  LegCount: 4
+  HairCount: 5000
+  HairColor: {r: 0.3584906, g: 0.3584906, b: 0.3584906, a: 1}

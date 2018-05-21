@@ -181,7 +181,9 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="StartAndUpdate.cs" t="Include" />
+          <e p="Animal.cs" t="Include" />
+          <e p="AnimalBehavior.cs" t="Include" />
+          <e p="Mammal.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
