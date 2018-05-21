@@ -11,6 +11,7 @@ public class AnimalBehavior : MonoBehaviour
 	{
 		print(AnimalInfo.Health);
 		print(AnimalInfo.LegCount);
+		print(AnimalInfo.Strength);
 		
 	}
 
