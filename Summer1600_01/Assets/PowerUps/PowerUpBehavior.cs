@@ -5,11 +5,12 @@ using UnityEngine;
 public class PowerUpBehavior : MonoBehaviour
 {
 
-        public PowerUpBase PowerUp;
+        public PowerUpBase AmmoPowerUp;
+        public PowerUpBase HealthPowerUp;
 
         private void OnMouseDown()
         {
-                Debug.Log(PowerUp.PowerLevel);
+                Debug.Log(AmmoPowerUp.PowerLevel);
         }
 
 

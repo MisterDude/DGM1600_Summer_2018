@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c306681a6de104b308aeb22ad72ef69b, type: 3}
   m_Name: Ammo10
   m_EditorClassIdentifier: 
-  PowerLevel: 10
+  PowerLevel: -3.4

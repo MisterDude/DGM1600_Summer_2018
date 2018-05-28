@@ -9,9 +9,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0871f2507a4834c1e8126ddb0c96911f, type: 3}
-  m_Name: New Animal
+  m_Name: KumodoDragon
   m_EditorClassIdentifier: 
-  Health: 1
-  Speed: 1
-  Strength: 1
-  LegCount: 2
+  Health: 50
+  Speed: 5
+  Strength: 3
+  LegCount: 4

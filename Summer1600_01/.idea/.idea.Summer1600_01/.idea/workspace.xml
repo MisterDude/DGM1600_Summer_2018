@@ -73,8 +73,8 @@
       <file leaf-file-name="PowerUpBase.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/PowerUps/PowerUpBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <marker date="1527094266120" expanded="false" signature="6:78" ph="..." />
                 <marker date="1527094266120" expanded="true" signature="123:233" ph="{...}" />
@@ -87,12 +87,12 @@
       <file leaf-file-name="PowerUpBehavior.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/PowerUps/PowerUpBehavior.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <marker date="1527094435183" expanded="false" signature="6:78" ph="..." />
-                <marker date="1527094435183" expanded="true" signature="124:271" ph="{...}" />
-                <marker date="1527094435183" expanded="true" signature="199:266" ph="{...}" />
+                <marker date="1527105353982" expanded="false" signature="6:78" ph="..." />
+                <marker date="1527105353982" expanded="true" signature="124:321" ph="{...}" />
+                <marker date="1527105353982" expanded="true" signature="245:316" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -122,6 +122,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PowerUpBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AmmoPowerUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/PowerUps/PowerUpBehavior.cs" />
       </list>
     </option>
   </component>
@@ -229,12 +230,12 @@
       <workItem from="1526488155579" duration="2538000" />
       <workItem from="1526918474215" duration="3796000" />
       <workItem from="1527091469553" duration="2327000" />
-      <workItem from="1527094996246" duration="580000" />
+      <workItem from="1527094996246" duration="1777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10666000" />
+    <option name="totallyTimeSpent" value="11863000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -247,7 +248,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="137" y="23" width="1400" height="985" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -384,8 +384,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PowerUps/PowerUpBase.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <marker date="1527094266120" expanded="false" signature="6:78" ph="..." />
             <marker date="1527094266120" expanded="true" signature="123:233" ph="{...}" />
@@ -396,12 +396,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/PowerUps/PowerUpBehavior.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
-            <marker date="1527094435183" expanded="false" signature="6:78" ph="..." />
-            <marker date="1527094435183" expanded="true" signature="124:271" ph="{...}" />
-            <marker date="1527094435183" expanded="true" signature="199:266" ph="{...}" />
+            <marker date="1527105353982" expanded="false" signature="6:78" ph="..." />
+            <marker date="1527105353982" expanded="true" signature="124:321" ph="{...}" />
+            <marker date="1527105353982" expanded="true" signature="245:316" ph="{...}" />
           </folding>
         </state>
       </provider>
