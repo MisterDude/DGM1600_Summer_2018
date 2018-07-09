@@ -11,9 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23a1496556a6b4f6a8e383033f234a96, type: 3}
   m_Name: Horse
   m_EditorClassIdentifier: 
-  Health: 200
+  Health: 70
   Speed: 120
   Strength: 250
   LegCount: 4
+  PowerUp: {fileID: 11400000, guid: bc3482e35badc4580a39ea61cbc5765e, type: 2}
   HairCount: 1000
   HairColor: {r: 0.5471698, g: 0, b: 0, a: 1}

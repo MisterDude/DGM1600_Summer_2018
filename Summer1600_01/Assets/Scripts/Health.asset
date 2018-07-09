@@ -8,8 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f1040478b890455a84d07011fae97d4, type: 3}
-  m_Name: Health1
+  m_Script: {fileID: 11500000, guid: 5cab40b4521ae4204a57360f90040fa7, type: 3}
+  m_Name: Health
   m_EditorClassIdentifier: 
-  AnyAnimal: {fileID: 11400000, guid: 585db830754c94a08b7d9225d7085907, type: 2}
-  PowerLevel: 10
+  Value: 1
